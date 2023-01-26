@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "django_settings": "django_aws_serverless.settings",
+        "profile_name": "default",
+        "project_name": "django-aws-serv",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-6hp23imj3",
+        "aws_region": "us-east-1"
+    }
+}
